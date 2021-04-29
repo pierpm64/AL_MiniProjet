@@ -1,0 +1,22 @@
+{
+  "name": "al_miniprojet",
+  "version": "1.0.0",
+  "description": "small project nodeJS + front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierpm64/AL_MiniProjet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pierpm64/AL_MiniProjet/issues"
+  },
+  "homepage": "https://github.com/pierpm64/AL_MiniProjet#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
