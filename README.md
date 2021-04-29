@@ -10,3 +10,5 @@ Team de Choc avec :
 * votre serviteur (Pierre Poulet-Mathis)
 
 On est les meilleurs ;-)
+
+Let's follow the White rabbit (testing synchro)
